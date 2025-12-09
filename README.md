@@ -1,0 +1,1 @@
+Solving 100 problems from the website [100 JS Functions](https://www.100jsfunctions.com)
