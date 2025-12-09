@@ -5,3 +5,4 @@ Solving 100 problems from the website [100 JS Functions](https://www.100jsfuncti
 ✔️ [concat3](/PROBLEMS/3.concat3.js) <br>
 ✔️ [max5](/PROBLEMS/4.max5.js) <br>
 ✔️ [getMonthsNeededToWait](/PROBLEMS/5.getMonthsNeededToWait.js) <br>
+✔️ [getGesolineAmount](/PROBLEMS/6.getGasolineAmount.js) <br>
