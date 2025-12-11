@@ -7,3 +7,4 @@ Solving 100 problems from the website [100 JS Functions](https://www.100jsfuncti
 ✔️ [getMonthsNeededToWait](/PROBLEMS/5.getMonthsNeededToWait.js) <br>
 ✔️ [getGesolineAmount](/PROBLEMS/6.getGasolineAmount.js) <br>
 ✔️ [lastNRevert](/PROBLEMS/7.lastNRevert.js) <br>
+✔️ [getBusinessAddress](/PROBLEMS/8.getBusinessAddress.js) <br>
